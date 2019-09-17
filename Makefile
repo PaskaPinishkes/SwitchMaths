@@ -35,9 +35,9 @@ BUILD		:=	build
 SOURCES		:=	source
 DATA		:=	data
 ICON		:=  	icon.jpg
-APP_TITLE	:=	Calculator-NX
-APP_AUTHOR	:=	Thomleg50
-APP_VERSION 	:=  	0.8
+APP_TITLE	:=	SwitchMaths
+APP_AUTHOR	:=	PaskaPinishkes
+APP_VERSION 	:=  	1.0
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
